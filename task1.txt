@@ -1,0 +1,5 @@
+houw to setup github
+how to create repo
+how to add code 
+how to commit
+how to push changes to github from local machine
